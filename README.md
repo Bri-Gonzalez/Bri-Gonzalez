@@ -3,7 +3,7 @@
 Nice to meet you! My name is Briana, and i'm a software engineer currently based in Austin, TX. I'm an open minded team player who enjoys learning and collaborating with others. 
 
 - 😄 Pronouns: She/Her
-- 🔭 I’m currently working on strengthening my React knowledge
+- 🔭 I’m currently working on strengthening my React and Rails knowledge
 - 📫 How to reach me: linkedin.com/in/briana-gonzalez-000/
 - 🎮 When i'm not coding, you can find me playing Bloodborne or Animal Crossing New Horizons
 
