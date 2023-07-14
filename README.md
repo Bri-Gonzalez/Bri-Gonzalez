@@ -5,7 +5,7 @@ Nice to meet you! My name is Briana, and i'm a software engineer currently based
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on strengthening my React and Rails knowledge
 - 📫 How to reach me: linkedin.com/in/briana-gonzalez-000/
-- 🎮 When i'm not coding, you can find me playing Bloodborne or Animal Crossing New Horizons
+- 🎮 When i'm not coding, you can find me bouldering or playing video games
 
 ## 👩🏻‍💻 Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
