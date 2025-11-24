@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-Nice to meet you! My name is Briana, and i'm a software engineer currently based in Austin, TX with 3 years of professional experience. I’m passionate about learning and creating applications and enjoy collaborating with others. 
+Nice to meet you! My name is Briana, and i'm a software engineer currently based in Austin, TX with 4 years of professional experience. I’m passionate about learning and creating applications and enjoy collaborating with others. 
 
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: [LinkedIn](linkedin.com/in/briana-gonzalez-000/)
